@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<plugin>
+  <id>cmd-emote</id>
+  <version>1</version>
+  <name>Emote Commands</name>
+  <description>Adds ::emote.</description>
+  <authors>
+    <author>The Wanderer</author>
+  </authors>
+  <scripts>
+    <script>emote.rb</script>
+  </scripts>
+  <dependencies />
+</plugin>

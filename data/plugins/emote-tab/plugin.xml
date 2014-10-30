@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<plugin>
+  <id>emote-tab</id>
+  <version>1</version>
+  <name>Emote Tab</name>
+  <description>Plays appropriate animations for the emotion tab.</description>
+  <authors>
+    <author>Arcalamus</author>
+  </authors>
+  <scripts>
+    <script>emote-tab.rb</script>
+  </scripts>
+  <dependencies />
+</plugin>

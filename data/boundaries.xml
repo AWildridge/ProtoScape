@@ -1,0 +1,106 @@
+<list>
+<boundary>
+  <name>Wilderness</name>
+  <bottomLeft>
+    <x>2944</x>
+    <y>3520</y>
+    <height>0</height>
+  </bottomLeft>
+  <topRight>
+    <x>3391</x>
+    <y>6400</y>
+    <height>0</height>
+  </topRight>
+</boundary>
+<boundary>
+  <name>DuelArena</name>
+  <bottomLeft>
+    <x>3325</x>
+    <y>3250</y>
+    <height>0</height>
+  </bottomLeft>
+  <topRight>
+    <x>3379</x>
+    <y>3286</y>
+    <height>0</height>
+  </topRight>
+</boundary>
+<boundary>
+  <name>DuelArenaFight</name>
+  <bottomLeft>
+    <x>3332</x>
+    <y>3244</y>
+    <height>0</height>
+  </bottomLeft>
+  <topRight>
+    <x>3358</x>
+    <y>3258</y>
+    <height>0</height>
+  </topRight>
+</boundary>
+<boundary>
+  <name>DuelArenaFight</name>
+  <bottomLeft>
+    <x>3363</x>
+    <y>3244</y>
+    <height>0</height>
+  </bottomLeft>
+  <topRight>
+    <x>3389</x>
+    <y>3258</y>
+    <height>0</height>
+  </topRight>
+</boundary>
+<boundary>
+  <name>DuelArenaFight</name>
+  <bottomLeft>
+    <x>3332</x>
+    <y>3225</y>
+    <height>0</height>
+  </bottomLeft>
+  <topRight>
+    <x>3358</x>
+    <y>3239</y>
+    <height>0</height>
+  </topRight>
+</boundary>
+<boundary>
+  <name>DuelArenaFight</name>
+  <bottomLeft>
+    <x>3363</x>
+    <y>3225</y>
+    <height>0</height>
+  </bottomLeft>
+  <topRight>
+    <x>3389</x>
+    <y>3239</y>
+    <height>0</height>
+  </topRight>
+</boundary>
+<boundary>
+  <name>DuelArenaFight</name>
+  <bottomLeft>
+    <x>3332</x>
+    <y>3206</y>
+    <height>0</height>
+  </bottomLeft>
+  <topRight>
+    <x>3358</x>
+    <y>3220</y>
+    <height>0</height>
+  </topRight>
+</boundary>
+<boundary>
+  <name>DuelArenaFight</name>
+  <bottomLeft>
+    <x>3363</x>
+    <y>3206</y>
+    <height>0</height>
+  </bottomLeft>
+  <topRight>
+    <x>3389</x>
+    <y>3220</y>
+    <height>0</height>
+  </topRight>
+</boundary>
+</list>

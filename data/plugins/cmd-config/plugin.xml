@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<plugin>
+  <id>cmd-config</id>
+  <version>1</version>
+  <name>Config Commands</name>
+  <description>Sends a config through commands.</description>
+  <authors>
+    <author>The Wanderer</author>
+  </authors>
+  <scripts>
+    <script>config.rb</script>
+  </scripts>
+  <dependencies />
+</plugin>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<plugin>
+  <id>ladders</id>
+  <version>1</version>
+  <name>Ladders</name>
+  <description>Handles in-game ladders</description>
+  <authors>
+    <author>Jimmy Frix</author>
+  </authors>
+  <scripts>
+    <script>ladders.rb</script>
+  </scripts>
+  <dependencies />
+</plugin>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<plugin>
+  <id>skill-woodcutting</id>
+  <version>1</version>
+  <name>Woodcutting</name>
+  <description>Handles the woodcutting skill</description>
+  <authors>
+    <author>Ares_</author>
+  </authors>  
+  <scripts>
+    <script>hatchet.rb</script>
+    <script>log.rb</script>
+    <script>respawn.rb</script>
+    <script>woodcutting.rb</script>
+  </scripts>
+  <dependencies />
+</plugin>
